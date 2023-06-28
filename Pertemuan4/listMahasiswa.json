@@ -1,0 +1,41 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 2041720063,
+      "id": 1,
+      "nama": "Bella Sonia Dwi Angelina",
+      "alamat": "Jl. Taman Bunga Merak I No. 23",
+      "hp": "082358475378",
+      "angkatan": 2020,
+      "status": "Aktif"
+    },
+    {
+      "NIM": 1841720063,
+      "id": 2,
+      "nama": "Natasha Kay Loovi",
+      "alamat": "Jl. Semanggi Timur No.15",
+      "hp": "085655784711",
+      "angkatan": 2018,
+      "status": "Lulus"
+    },
+    {
+      "id": 1678523750673,
+      "NIM": "1941720063",
+      "nama": "Kanezia Valeria Harsha",
+      "alamat": "Jl Bandung No.20 A",
+      "hp": "082141054584",
+      "angkatan": "2019",
+      "status": "Cuti"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,91 @@
+.mahasiswa{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid purple;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    display: flex;
+}
+
+.gambar-mahasiswa{
+    height: 120px;
+    width: 120px;
+    margin-right: 20px;
+    vertical-align: top;
+}
+
+.gambar-mahasiswa img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.konten-mahasiswa{
+    flex: 1;
+    font-family: fantasy;
+}
+
+.konten-mahasiswa div.nim-mahasiswa{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    
+}
+
+.konten-mahasiswa p.isi-mahasiswa{
+    font-size: 16px;
+    margin-bottom: 3px;
+}
+
+.mahasiswa button.btn-sm{
+    background-color: rgb(174, 5, 174);
+    color: white;
+    border-color: azure;
+    width: 100px;
+    height: 35px;
+    font-family: monospace;
+    border: none;
+}
+
+.mahasiswa button.btn-sm:hover{
+    background: rgb(241, 101, 241);
+}
+
+.pb-2 button.btn-simpan{
+    background-color: palevioletred;
+    color: white;
+    font-family: monospace;
+    margin: 10px;
+    width: 200px;
+    height: 35px;
+    border-color: pink;
+    border: none;
+}
+
+.pb-2 button.btn-simpan:hover{
+    background: rgb(200, 30, 87);
+}
+
+.forbutton{
+    text-align: end;
+}
+
+.forhapus{
+    margin-bottom: 0px;
+}
+
+.form-group{
+    padding: auto;
+    margin-bottom: 10px;
+    margin-right: 5px;
+    font-family: fantasy;
+}
+
+.judul_form{
+    padding: 10px;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    font-family: cursive;
+}

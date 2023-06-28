@@ -1,0 +1,50 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 2041720063,
+      "id": 1,
+      "nama": "Bella Sonia Dwi Angelina",
+      "alamat": "Mojokerto",
+      "hp": "081358475378",
+      "angkatan": 2020,
+      "status": "Aktif"
+    },
+    {
+      "NIM": "2041720062",
+      "id": 1679387180754,
+      "nama": "Keenan Rivaaldi Bumiantara",
+      "alamat": "Malang",
+      "hp": "085655784711",
+      "angkatan": "2020",
+      "status": "Cuti"
+    },
+    {
+      "NIM": "1941720063",
+      "id": 1679387228071,
+      "nama": "Kanezia Anathea Granada",
+      "alamat": "Surabaya",
+      "hp": "082141054584",
+      "angkatan": "2019",
+      "status": "Lulus"
+    },
+    {
+      "NIM": "2041678900",
+      "id": 1681186629160,
+      "nama": "Iqbal Guanna Freedy",
+      "alamat": "Gresik",
+      "hp": "087654090000",
+      "angkatan": "2019",
+      "status": "Aktif"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
